@@ -1,7 +1,7 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Aman!](https://github.com/amanverma644) 
 
 ## About Me
-<h5>I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.<h5>
+<h4>I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.<h4>
 
 <h3> 👨🏻‍💻 &nbsp;Currently </h3>
 
