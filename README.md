@@ -103,5 +103,11 @@
                                                                                                                               
                                                                                                                               
 ## Some Statistics About Me
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanverma644&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+ <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanverma644&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515""/>
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma644&theme=tokyonight" height="200px" width="300px" />
+</a>                                                                                                                             
+                                                                                                                    
 
