@@ -1,9 +1,8 @@
 <p align="center"> 
-  <img src="https://github.com/amanverma644/amanverma644/blob/main/gif/mario.gif" width="1000px" height="270px" ">
-</p>
-
-## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Aman!](https://github.com/amanverma644) 
-
+  <img src="https://github.com/amanverma644/amanverma644/blob/main/header.svg" width=700px" >
+</p> 
+                                                                                           
+                                                                                                          
 ## About Me
 <h4>I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.<h4>
 
@@ -17,10 +16,9 @@
 - 📚 &nbsp; Beginner at Competitive Programmming.
 
 
-
 ## Languages and Tools
 
-<table>
+<table >
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -78,9 +76,7 @@
     </tr>
   </tbody>
 </table>
-                                                                         
-<hr style="border:2px solid gray"> </hr>       
-                                 
+                                                                                                              
 <p align="center"> 
   <img src="https://github.com/amanverma644/amanverma644/blob/main/gif/pacman.gif" width="800px" height="70px" ">
 </p>
@@ -101,13 +97,11 @@
   </a>
 </p>
                                                                                                                               
-                                                                                                                              
-## Some Statistics About Me
- <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanverma644&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515""/>
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma644&theme=tokyonight" height="200px" width="300px" />
-</a>                                                                                                                             
+                                                                                                                        
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanverma644&&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma644&theme=dark" />
+</p>
+                                                                                                                                                                                                                                  
                                                                                                                     
 
