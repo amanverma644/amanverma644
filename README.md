@@ -1,107 +1,74 @@
-<p align="center"> 
-  <img src="https://github.com/amanverma644/amanverma644/blob/main/header.svg" width=700px" >
-</p> 
-                                                                                           
-                                                                                                          
-## About Me
-<h4>I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.<h4>
-
-<h3> 👨🏻‍💻 &nbsp;Currently </h3>
-
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Engineering at Delhi Technological University.
-- 💼 &nbsp; Looking for Opportunities.
-- 🌱 &nbsp; Learning more about Cloud Computing and System Design.
-- ✍️ &nbsp; Learning Web Development.
-- 📚 &nbsp; Beginner at Competitive Programmming.
-
-
-## Languages and Tools
-
-<table >
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>BootStrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Express</span><br><br><br>
-        <img height="64px" src="https://cdn.cdnlogo.com/logos/e/23/express.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-        <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-                                                                                                              
-<p align="center"> 
-  <img src="https://github.com/amanverma644/amanverma644/blob/main/gif/pacman.gif" width="800px" height="70px" ">
+<h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Aman Verma</h1>
+	
+ <p align="">
+   <a href="https://www.linkedin.com/in/aman-verma-3969ba200/">
+    <img src="https://img.shields.io/badge/linkedin-amanverma-blue">
+   </a>
+  <span> <img src="https://gpvc.arturio.dev/amanverma644" alt="amanverma"></span>
 </p>
-                                                                        
-<h2 align="center">Connect with me:</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-verma-3969ba200/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aman Verma's LinkedIn Profile" height="30" width="30">
-  </a>
+<br />
 
-  <a href="https://stackoverflow.com/users/16393496/aman-verma?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt=""Aman Verma's Stack Overflow Profile" height="30" width="30">
-  </a>
+<h3 align="center">Web Developer | Competitive Coder</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2024)</h3>
 
-  <a href="mailto:vaman644@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt=""Aman Verma's Gmail Profile" height="30" width="30">
-  </a>
+
+<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+
+
+- 🤔 Exploring new technologies.
+- 🌱 I’m currently learning ... **React.js**
+- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
+- 😄 Employement ... **Open for full-time opportunities**
+- 📫 How to reach me **<a href="mailto:vaman644@gmail.com">vaman644@gmail.com</a>**
+
+
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/c.png" alt=c width="60" height="60"/>
+
+<h4>Skills and Tools: </h4>
+<p align="left">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/jquery.png" alt=jquery width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/js.png" alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/babel.png" alt=babel width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/sass.png" alt=sass width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/npm.png" alt=npm width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/yarn.png" alt=yarn width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/node.png" alt=nodejs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/express.png" alt=express width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/react.png" alt=react width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/redux.png" alt=redux width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/git.png" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/heroku.png" alt=heroku width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/adobexd.png" alt=adobexd width="60" height="60"/>
+ 
 </p>
-                                                                                                                              
-                                                                                                                        
- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanverma644&&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma644&theme=dark" />
-</p>
-                                                                                                                                                                                                                                  
-                                                                                                                    
 
+<h4>Desktop Environment: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/atom.png" alt=atom width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/amanverma644/amanverma644/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+</p>
+<br />
+
+
+<p align="center">  
+<a href="https://twitter.com/AmanVer74567938" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AmanVer74567938" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-verma-3969ba200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amanverma" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/16393496/aman-verma?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="amanverma" height="40" width="40" /></a>
+</p>
+
+⭐️ From [Aman Verma](https://github.com/amanverma644) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
