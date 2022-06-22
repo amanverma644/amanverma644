@@ -70,5 +70,3 @@
 <a href="https://www.linkedin.com/in/aman-verma-3969ba200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amanverma" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/16393496/aman-verma?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="amanverma" height="40" width="40" /></a>
 </p>
-
-⭐️ From [Aman Verma](https://github.com/amanverma644) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
